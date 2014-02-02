@@ -1,0 +1,33 @@
+
+            #div2{
+        border:6px double orange;
+        -moz-box-sizing: border-box;   
+background-color:#ffffff;
+    width:75%;
+    text-align:center;
+    float:left;
+
+            }
+            #div3
+            {
+        border: 6px double orange;
+                  -moz-box-sizing: border-box;    
+ background-color:#ffffff;
+    width:25%;
+    text-align:center;
+    float:left;
+   
+            }
+ #header
+ {
+ 	border: 6px double orange;
+ 	 -moz-box-sizing: border-box;
+ 	
+ 	width:100%;
+ 	text-align:center;
+
+  }
+img
+{
+	cursor:pointer;
+}
