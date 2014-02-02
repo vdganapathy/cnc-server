@@ -25,8 +25,8 @@ define('DIR_CATALOG', '/home/shoppkd8/public_html/catalog/');
 // DB
 define('DB_DRIVER', 'mysql');
 define('DB_HOSTNAME', 'localhost');
-define('DB_USERNAME', 'shoppkd8_gana');
-define('DB_PASSWORD', 'v.d.Sudb888');
-define('DB_DATABASE', 'shoppkd8_new');
+define('DB_USERNAME', '');
+define('DB_PASSWORD', '');
+define('DB_DATABASE', '');
 define('DB_PREFIX', '');
 ?>
